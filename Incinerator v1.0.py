@@ -4,7 +4,7 @@ from threading import Thread
 
 # Safegaurd
 safeguard = input('Please put password in to start the program: ')
-if safeguard != 'incinerator':
+if safeguard != 'Seraphim':
     quit()
 
 # File extensions to locate files
